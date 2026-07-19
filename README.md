@@ -55,6 +55,31 @@ The objective of this project was to detect suspicious financial activities from
 - `RedFlag_Mayuresh_Khare.sql`
 - `README.md`
 - `screenshots/`
+  
+---
+
+## 📸 Project Screenshots
+### Pattern 8 – Merchant Collusion
+
+![Merchant Collusion](screenshots/P8.png)
+
+---
+
+### Pattern 10 – Dormant Then Active
+
+![Dormant Then Active](screenshots/P10.png)
+
+---
+
+### Pattern 11 – Velocity Spike
+
+![Velocity Spike](screenshots/P11.png)
+
+---
+
+### Pattern 12 – Geographic Impossibility
+
+![Geographic Impossibility](screenshots/P12.png)
 
 ---
 
