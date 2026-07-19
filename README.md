@@ -83,14 +83,6 @@ The objective of this project was to detect suspicious financial activities from
 
 ---
 
-## 📌 Dataset
-
-The original dataset is **not included** in this repository due to academy guidelines and file size limitations.
-
-Interested reviewers may contact me for access.
-
----
-
 ## 👨‍💻 Author
 
 **Mayuresh Khare**
