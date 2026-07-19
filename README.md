@@ -83,6 +83,12 @@ The objective of this project was to detect suspicious financial activities from
 
 ---
 
+## Dataset
+
+See **DATASET.md** for the download link and import instructions.
+
+---
+
 ## 👨‍💻 Author
 
 **Mayuresh Khare**
